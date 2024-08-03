@@ -7,7 +7,7 @@ In the project the aim is to try to answer questions given as the week one assig
 * Libraries:Pandas for data manipulation and analysis and Numpy for numerical computing.
 * Database:SQL Server, which was used to perform data storage,manipulation and retrieval.
 ## Questions
-Part a:
+###Part a:
 1.Find all records where the weather was exactly clear.</br>
 2.Find the number of times the wind speed was exactly 4 km/hr.</br>
 3.Check if there are any NULL values present in the dataset.</br>
@@ -17,6 +17,6 @@ Part a:
 7.What is the mean value of each column for each weather condition?</br>
 8.Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.</br>
 9.Find the number of weather conditions that include snow.</br>
-Part b: </br>
+###Part b: 
 1.Move this CSV into a database of your choice and use SQL to answer the questions above.</br>
 ## Findings
