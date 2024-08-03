@@ -29,5 +29,3 @@ In the project the aim is to try to answer questions given as the week one assig
 | Column  | Mean Value |
 | ------- | ---------- |
 | Content | mean       |
-
-
