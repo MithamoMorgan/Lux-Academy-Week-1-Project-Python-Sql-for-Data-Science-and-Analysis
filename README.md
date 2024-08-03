@@ -1,6 +1,8 @@
 ## Overview
 This is the first project of the Lux Academy ft. Data Science East Africa 5-Week Data Career Boot Camp.It involves SQL and python for Data Science and analysis.
-In the project the aim is to try to answer questions given as the week one assignment.
+In the project the aim is to try to answer questions from "Weather_Data_Set_for_beginners".
+## Data Source
+The dataset used in this project, "Weather_Data_Set_for_beginners" is downloaded from Kaggle website.Here is the [link](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners) to the dataset.
 ## Tools Used
 * Python:This is the programming language that was employed in this project as required.
 * Jupyter Notebook:This is the development environment used to execute python code.
@@ -42,3 +44,6 @@ In the project the aim is to try to answer questions given as the week one assig
 
 Here is the [python code](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis/blob/master/Weather_Analysis.ipynb) and
   [SQL code](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis/blob/master/Weather_data_SQLQuery.sql) used to answer the questions.
+
+  ## Conclusion
+The project was an introduction to SQL and Python for  Data Science and Data Analysis, I learnt how to load a csv file to jupyter notebook, import a csv file to a database, perform numerical computations, retrieve required information from a DataFrame using python code and writting SQL queries to do the same from a database.
