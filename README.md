@@ -39,5 +39,6 @@ In the project the aim is to try to answer questions given as the week one assig
 
 * I retrieved all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.</br>
 * The number of weather conditions that include snow was 583.</br>
-Here is the [python code](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis/blob/master/Weather_Analysis.ipynb) and
+
+NB:Here is the [python code](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis/blob/master/Weather_Analysis.ipynb) and
   [SQL code](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis/blob/master/Weather_data_SQLQuery.sql) used to answer the questions.
