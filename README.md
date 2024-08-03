@@ -36,3 +36,6 @@ In the project the aim is to try to answer questions given as the week one assig
 | Wind Speed_km/h | 14.945469 |
 | Visibility_km | 27.664447 |
 | Press_kPa | 101.051623 |
+
+* I retrieved all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.</br>
+* The number of weather conditions that include snow was 583.
