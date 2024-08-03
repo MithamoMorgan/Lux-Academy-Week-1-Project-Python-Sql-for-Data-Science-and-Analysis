@@ -26,6 +26,7 @@ In the project the aim is to try to answer questions given as the week one assig
 * I renamed the column "Weather" to "Weather_Condition."</br>
 * The mean visibility of the dataset is:27.6644 Km.</br>
 * The number of records where the wind speed is greater than 24 Km/hr and visibility is equal to 25Km is 308 records.</br>
+
 | Column  | Mean Value |
 | ------- | ---------- |
 | Content | mean       |
