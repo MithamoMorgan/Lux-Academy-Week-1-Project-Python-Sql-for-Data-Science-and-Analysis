@@ -20,3 +20,9 @@ In the project the aim is to try to answer questions given as the week one assig
 ### Part b: 
 1.Move this CSV into a database of your choice and use SQL to answer the questions above.</br>
 ## Findings
+The number of times the wind speed was exactly 4 Km/hr was 474.
+The data set does not contain any column where there are null values.
+The mean visibility of the dataset is:27.6644 Km
+The number of records where the wind speed is greater than 24 Km/hr and visibility is equal to 25Km is 308
+
+
