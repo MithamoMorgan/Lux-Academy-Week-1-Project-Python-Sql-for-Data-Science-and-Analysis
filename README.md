@@ -1,6 +1,5 @@
 ## Overview
-This is the first project of the Lux Academy ft. Data Science East Africa 5-Week Data Career Boot Camp.It involves SQL and python for Data Science and Analysis.
-In the project the aim is to try to answer questions from "Weather_Data_Set_for_beginners".
+This is the first project of the Lux Academy ft. Data Science East Africa 5-Week Data Career Boot Camp.It involves SQL and python for Data Science and Analysis.In the project the aim is to try to answer questions from "Weather_Data_Set_for_beginners".
 ## Data Source
 The dataset used in this project, "Weather_Data_Set_for_beginners" is downloaded from Kaggle website.Here is the [link](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners) to the dataset.
 ## Tools Used
