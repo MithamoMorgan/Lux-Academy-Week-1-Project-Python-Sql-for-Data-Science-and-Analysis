@@ -3,10 +3,10 @@ This is the first project of the Lux Academy ft. Data Science East Africa 5-Week
 ## Data Source
 The dataset used in this project, "Weather_Data_Set_for_beginners" is downloaded from Kaggle website.Here is the [link](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners) to the dataset.
 ## Tools Used
-* Python:This is the programming language that was employed in this project as required.
-* Jupyter Notebook:This is the development environment used to execute python code.
-* Libraries:Pandas for data manipulation and analysis and Numpy for numerical computing.
-* Database:SQL Server, which was used to perform data storage,manipulation and retrieval.
+* Python: Programming language that was employed in this project as required.
+* Jupyter Notebook: Development environment used to execute python code.
+* Libraries: Pandas for data manipulation and analysis and Numpy for numerical computing.
+* Database: SQL Server, which was used to perform data storage,manipulation and retrieval.
 ## Questions
 ### Part a:
 1. Find all records where the weather was exactly clear.</br>
